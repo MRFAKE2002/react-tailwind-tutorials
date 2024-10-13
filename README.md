@@ -1,3 +1,7 @@
+# Introduction
+
+This is the course about tailwind. Source link: https://youtube.com/playlist?list=PLprvbQiR3cN9Mt_rINlJX6UOn4utVPBX2&si=46u1aXn9U04h4vAP
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
